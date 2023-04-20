@@ -1,4 +1,4 @@
-# CUSTOMER RELATIONSHIP MANAGEMENT
+# :fire: CUSTOMER RELATIONSHIP MANAGEMENT :fire:
 :wave: Welcome to my App: CRM - Quản lý công việc của nhân viên trong công ty :wave:
 
 ## Table of Contents
