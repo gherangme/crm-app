@@ -1,0 +1,21 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<!-- Nơi định nghĩa đường dẫn và controller nào sẽ xử lý đường dẫn nào -->
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+
+<!-- Đang định nghĩa controller và chính thức khởi tạo nó -->
+  <servlet>
+    <servlet-name>HelloServlet</servlet-name>
+    <servlet-class>filerac.HelloServlet</servlet-class>
+  </servlet>
+
+<!-- Định nghĩa đường dẫn sẽ được xử lý bởi controller -->
+  <servlet-mapping>
+    <servlet-name>HelloServlet</servlet-name>
+    <url-pattern>/hello</url-pattern>
+  </servlet-mapping>
+
+</web-app>
