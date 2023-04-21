@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="review_crm_project_finish - author" />
         <module name="review_crm_project" />
+        <module name="crm-app" />
         <module name="review_crm_project_finish" />
       </profile>
     </annotationProcessing>
