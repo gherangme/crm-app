@@ -6,7 +6,6 @@
 - [Preview Screenshot](#preview-screenshot)
 - [Technology](#technology)
 - [Functional requirements](#requirements)
-- [Useful Resources](#useful-resources)
 - [Contributors](#contributors)
 - [References](#references)
 
@@ -16,7 +15,9 @@
 
 ## Preview Screenshot
 
-Updating...
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gherangme/crm-app/main/pic/Preview%20Screenshot.png">
+</div>
   
 ## Technology
 
@@ -54,15 +55,13 @@ Updating...
   - [ ] ***Read:*** <br>
   &ensp; Login, task, profile
   - [ ] ***Write:*** <br>
-  &ensp; Task, profile
-  
-## Useful Resources
-
-Updating...
+  &ensp; Task, profile <br><br>
+[**Further reading**](https://github.com/gherangme/crm-app/tree/main/pic)
 
 ## Contributors
 **1. Mentors:**
-- Mentor: Che Cong Binh, Nguyen Duc Hoang, Bui Dang Khoa
+- Lecturer: Che Cong Binh
+- Mentors: Nguyen Duc Hoang, Bui Dang Khoa
 
 **2. Member:**
 - [Pham Ngoc Hung](https://github.com/gherangme) - **Back-end Java Developer**
