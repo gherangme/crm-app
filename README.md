@@ -5,13 +5,13 @@
 - [Description](#description)
 - [Preview Screenshot](#preview-screenshot)
 - [Technology](#technology)
-- [Functional requirements](#functional-requirements)
+- [Functional requirements](#requirements)
 - [Useful Resources](#useful-resources)
 - [Contributors](#contributors)
 - [References](#references)
 
 ## Description
-- Application to check user tasks for leader.
+- Application to manage project, task and member for user.
 - This project started from 17-12-2022 to 21-04-2023
 
 ## Preview Screenshot
@@ -27,7 +27,7 @@ Updating...
 **2. Database**
   - MySQL
 
-**3. Other Technologies**
+**3. Other Technology**
 - API
 
 **4. Tool**
@@ -39,22 +39,22 @@ Updating...
 ## Requirements
 
 **ADMIN**
-  - [ ] Read:
-  - login, user, project, task, task of member, profile, role
-  - [ ] Write:
-  - login, user, project, task, task of member, profile, role
+  - [ ] ***Read:*** <br>
+  &ensp; Login, user, project, task, task of member, profile, role
+  - [ ] ***Write:*** <br>
+  &ensp; Login, user, project, task, task of member, profile, role
   
 **LEADER**
-  - [ ] Read:
-  - login, user, project, task, task of member, profile
-  - [ ] Write: 
-  - project, task, task of member, profile
+  - [ ] ***Read:*** <br>
+  &ensp; Login, user, project, task, task of member, profile
+  - [ ] ***Write:*** <br>
+  &ensp; Project, task, task of member, profile
   
 **MEMBER**
-  - [ ] Read:
-  - login, task
-  - [ ] Write:
-  - task, profile
+  - [ ] ***Read:*** <br>
+  &ensp; Login, task, profile
+  - [ ] ***Write:*** <br>
+  &ensp; Task, profile
   
 ## Useful Resources
 
@@ -65,7 +65,9 @@ Updating...
 - Mentor: Che Cong Binh, Nguyen Duc Hoang, Bui Dang Khoa
 
 **2. Member:**
-- [Pham Ngoc Hung](https://github.com/gherangme) - **Back-end Developer**
+- [Pham Ngoc Hung](https://github.com/gherangme) - **Back-end Java Developer**
 
 ## References
-Updating...
+[1] [Javatpoint - jsp servlet](javatpoint.com/servlet-tutorial) <br>
+[2] [Baeldung - Cookie and Session](https://www.baeldung.com/java-servlet-cookies-session) <br>
+[3] Cybersoft - Java20
