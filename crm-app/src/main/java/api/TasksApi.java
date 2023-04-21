@@ -171,11 +171,11 @@ public class TasksApi extends HttpServlet {
         if (taskService.updateTask(id, idUser, idProject, nameTask, startDate, endDate) == 1) {
             basicResponse.setData(1);
             basicResponse.setStatusCode(200);
-            basicResponse.setMessage("Thêm công việc thành công");
+            basicResponse.setMessage("Thay đổi thành công");
         } else {
             basicResponse.setData(-1);
             basicResponse.setStatusCode(200);
-            basicResponse.setMessage("Thêm công việc thất bại");
+            basicResponse.setMessage("Thay đổi việc thất bại");
         }
 
         return basicResponse;

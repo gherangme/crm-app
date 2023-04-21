@@ -15,13 +15,15 @@ $(document).ready(function () {
         url: `http://localhost:8080/api/project-detail`,
     }).done(function (data) {
         if (data.data[0].data != null) {
-            $('#undo-task').html(Math.floor(data.data[0].data[1] * 100 / data.data[0].data[0]) + '%')
-            $('#doing-task').html(Math.floor(data.data[0].data[2] * 100 / data.data[0].data[0]) + '%')
-            $('#done-task').html(Math.floor(data.data[0].data[3] * 100 / data.data[0].data[0]) + '%')
+            if (data.data[0].data[0] != 0) {
+                $('#undo-task').html(Math.floor(data.data[0].data[1] * 100 / data.data[0].data[0]) + '%')
+                $('#doing-task').html(Math.floor(data.data[0].data[2] * 100 / data.data[0].data[0]) + '%')
+                $('#done-task').html(Math.floor(data.data[0].data[3] * 100 / data.data[0].data[0]) + '%')
 
-            $('#undo-rate').attr('style', 'width: ' + (data.data[0].data[1] * 100 / data.data[0].data[0]) + '%')
-            $('#doing-rate').attr('style', 'width: ' + (data.data[0].data[2] * 100 / data.data[0].data[0]) + '%')
-            $('#done-rate').attr('style', 'width: ' + (data.data[0].data[3] * 100 / data.data[0].data[0]) + '%')
+                $('#undo-rate').attr('style', 'width: ' + (data.data[0].data[1] * 100 / data.data[0].data[0]) + '%')
+                $('#doing-rate').attr('style', 'width: ' + (data.data[0].data[2] * 100 / data.data[0].data[0]) + '%')
+                $('#done-rate').attr('style', 'width: ' + (data.data[0].data[3] * 100 / data.data[0].data[0]) + '%')
+            }
         }
 
         if (data.data[1].data != null) {
