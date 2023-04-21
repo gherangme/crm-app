@@ -4,6 +4,7 @@
 ## Table of Contents
 - [Description](#description)
 - [Preview Screenshot](#preview-screenshot)
+- [Video Demo](#Video )
 - [Technology](#technology)
 - [Functional requirements](#requirements)
 - [Contributors](#contributors)
@@ -18,8 +19,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/gherangme/crm-app/main/pic/Preview%20Screenshot.png"><br><br>
   <img src="https://raw.githubusercontent.com/gherangme/crm-app/main/pic/Preview.png">
-  
 </div>
+
+## Video Demo
+[Click here](https://youtu.be/VleBhvULNLo)
   
 ## Technology
 
