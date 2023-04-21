@@ -28,18 +28,34 @@ Updating...
   - MySQL
 
 **3. Other Technologies**
-- RESTful API
+- API
 
 **4. Tool**
   - Visual Studio Code
-  - IntelliJ IDEA 2022.1.1
+  - IntelliJ IDEA 2021.1.3
   - Postman
   - Draw.io for ERD Diagram
 
 ## Requirements
 
-Updating...
-
+**ADMIN**
+  - [ ] Read:
+  - login, user, project, task, task of member, profile, role
+  - [ ] Write:
+  - login, user, project, task, task of member, profile, role
+  
+**LEADER**
+  - [ ] Read:
+  - login, user, project, task, task of member, profile
+  - [ ] Write: 
+  - project, task, task of member, profile
+  
+**MEMBER**
+  - [ ] Read:
+  - login, task
+  - [ ] Write:
+  - task, profile
+  
 ## Useful Resources
 
 Updating...
@@ -49,7 +65,7 @@ Updating...
 - Mentor: Che Cong Binh, Nguyen Duc Hoang, Bui Dang Khoa
 
 **2. Member:**
-- [Pham Ngoc Hung](https://github.com/gherangme) - **Back-end Developer | Database Designer**
+- [Pham Ngoc Hung](https://github.com/gherangme) - **Back-end Developer**
 
 ## References
 Updating...
