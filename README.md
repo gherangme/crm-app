@@ -16,7 +16,9 @@
 ## Preview Screenshot
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gherangme/crm-app/main/pic/Preview%20Screenshot.png">
+  <img src="https://raw.githubusercontent.com/gherangme/crm-app/main/pic/Preview%20Screenshot.png"><br><br>
+  <img src="https://raw.githubusercontent.com/gherangme/crm-app/main/pic/Preview.png">
+  
 </div>
   
 ## Technology
