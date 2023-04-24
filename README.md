@@ -4,7 +4,7 @@
 ## Table of Contents
 - [Description](#description)
 - [Preview Screenshot](#preview-screenshot)
-- [Video Demo](#Video )
+- [Video Demo](#video-demo)
 - [Technology](#technology)
 - [Functional requirements](#requirements)
 - [Contributors](#contributors)
