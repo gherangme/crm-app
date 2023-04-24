@@ -22,7 +22,7 @@
 </div>
 
 ## Video Demo
-Updating...
+- [Video here](https://www.youtube.com/watch?v=S445jzo5A9c) 
   
 ## Technology
 
