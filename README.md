@@ -64,8 +64,8 @@
 [**Further reading**](https://github.com/gherangme/crm-app/tree/main/pic)
 
 ## Contributors
-**1. Mentors:**
-- Lecturer: Che Cong Binh
+**1. Mentor:**
+- Che Cong Binh
 
 **2. Member:**
 - [Pham Ngoc Hung](https://github.com/gherangme) - **Back-end Java Developer**
