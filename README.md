@@ -66,7 +66,6 @@
 ## Contributors
 **1. Mentors:**
 - Lecturer: Che Cong Binh
-- Mentors: Nguyen Duc Hoang, Bui Dang Khoa
 
 **2. Member:**
 - [Pham Ngoc Hung](https://github.com/gherangme) - **Back-end Java Developer**
