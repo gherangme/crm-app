@@ -27,7 +27,7 @@
 ## Technology
 
 **1. Backend**
-  - Java Language
+  - Java 11
   - JSP Servlet
 
 **2. Database**
@@ -35,6 +35,10 @@
 
 **3. Other Technology**
 - API
+- MVC Model
+- AJAX call API
+- JDBC
+- JSTL
 
 **4. Tool**
   - Visual Studio Code
