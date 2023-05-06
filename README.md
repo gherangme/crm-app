@@ -36,7 +36,7 @@
 **3. Other Technology**
 - API
 - MVC Model
-- AJAX call API
+- jQuery Ajax call API
 - JDBC
 - JSTL
 
